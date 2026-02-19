@@ -1,0 +1,9 @@
+# 崩坏3乐土攻略插件依赖
+# AstrBot 插件 - 崩坏3往事乐土攻略查询
+
+# YAML 配置文件解析
+pyyaml>=6.0
+
+# 注意：以下依赖已由 AstrBot 框架提供，无需重复安装
+# aiohttp>=3.8.0
+# asyncio (Python 标准库)

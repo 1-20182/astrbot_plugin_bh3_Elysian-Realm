@@ -1,0 +1,6 @@
+name: astrbot_plugin_bh3
+display_name: 崩坏3乐土攻略插件
+desc: 崩坏3往事乐土攻略查询插件，支持查询角色乐土攻略图片，数据来源于米游社月光中心official
+version: v1.0.0
+author: Assistant
+repo: https://github.com/your-repo/astrbot_plugin_bh3
