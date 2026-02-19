@@ -1,0 +1,2 @@
+# astrbot_plugin_bh3_Elysian-Realm
+适用于astrbot的崩坏3乐土攻略查询插件
