@@ -1,6 +1,11 @@
-name: astrbot_plugin_ccb_remake # 这是你的插件的唯一识别名。
-desc: 增加了ccb的功能~ 加了淫乱度查询 加了好感查询 加了群排行 # 插件简短描述
-help: 应该没什么问题 # 插件的帮助信息
-version: v1 # 插件版本号。格式：v1.1.1 或者 v1.1
-author: 飞翔的死猪 # 作者
-repo: https://github.com/1-20182/astrbot_plugin_ccb_remake # 插件的仓库地址
+name: astrbot_plugin_bh3_Elysian-Realm
+display_name: 适用于astrbot的崩坏3乐土查询插件
+desc: 使用米游社提供的乐土攻略给用户提供攻略支持
+version: v1.0.0
+author: 飞翔的死猪
+repo: https://github.com/1-20182/astrbot_plugin_bh3_Elysian-Realm
+tags:
+  - 游戏
+  - 辅助
+  - 崩坏3
+social_link: https://github.com/1-20182
