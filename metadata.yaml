@@ -1,6 +1,6 @@
-name: astrbot_plugin_bh3
-display_name: 崩坏3乐土攻略插件
-desc: 崩坏3往事乐土攻略查询插件，支持查询角色乐土攻略图片，数据来源于米游社月光中心official
-version: v1.0.0
-author: Assistant
-repo: https://github.com/your-repo/astrbot_plugin_bh3
+name: astrbot_plugin_ccb_remake # 这是你的插件的唯一识别名。
+desc: 增加了ccb的功能~ 加了淫乱度查询 加了好感查询 加了群排行 # 插件简短描述
+help: 应该没什么问题 # 插件的帮助信息
+version: v1 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: 飞翔的死猪 # 作者
+repo: https://github.com/1-20182/astrbot_plugin_ccb_remake # 插件的仓库地址
